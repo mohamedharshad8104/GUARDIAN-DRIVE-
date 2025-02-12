@@ -68,3 +68,4 @@ Hence our model is trained, validated and tested to be able to detect accidents 
 ## Way Forward
 - This Model can be implemented in the cameras placed on highway Pol with the help of an iot device in camera it can be used to report to the nearest control room.
 - This model can also be transformed into an open source web application using Frameworks like Flask which can be used by anyone to cross check any image to know about if any accident occured in it.
+  
